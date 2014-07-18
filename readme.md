@@ -27,7 +27,10 @@
 
 Python 2.7 [連結](https://www.python.org/downloads/)
 
-Py2exe [連結](http://www.py2exe.org/)
+Tkinter 本程式使用的圖形界面 [Tk 8.6.1 Windows Sources 連結](http://www.activestate.com/activetcl/downloads)
+[中文安裝教學](http://blog.got7.org/2009/06/atcltk.html)
+
+Py2exe 可以將 python 編譯成 windows 執行檔 [連結](http://www.py2exe.org/)
 
 ## 編譯 ##
 
@@ -40,3 +43,5 @@ python setup.py py2exe
 ## 執行 ##
 
 從dist資料夾內點選 "betel_smoke_tool.exe 即可開啟使用。
+
+如果想要直接執行本程式不想編譯成exe檔，則可以執行 betel_smoke_tool.py 檔即可，不需加入任何程式參數。
