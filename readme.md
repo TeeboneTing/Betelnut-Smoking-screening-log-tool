@@ -45,3 +45,7 @@ python setup.py py2exe
 從dist資料夾內點選 "betel_smoke_tool.exe 即可開啟使用。
 
 如果想要直接執行本程式不想編譯成exe檔，則可以執行 betel_smoke_tool.py 檔即可，不需加入任何程式參數。
+
+## DEMO 程式 ##
+
+編譯好的執行檔可以在這裡下載玩玩看 [連結](http://goo.gl/T72dYq)
